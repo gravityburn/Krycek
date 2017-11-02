@@ -1,7 +1,9 @@
 # Krycek
 Java Middleware Program
 
-Krycek Overview
+![krycek](https://user-images.githubusercontent.com/17135519/32349996-efac30b2-bfe6-11e7-8c3f-ea02238ef8f0.jpg)
+
+Overview
 
 •	For X-Files fans out there, this program is named after Alexander Krycek, the antagonist known for passing information between the shadowy government agencies and the FBI.
 
