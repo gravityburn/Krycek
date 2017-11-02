@@ -5,7 +5,7 @@ Krycek Overview
 
 •	For X-Files fans out there, this program is named after Alexander Krycek, the antagonist known for passing information between the shadowy government agencies and the FBI.
 
-•	A lightweight, multithreaded Java middleware program for connecting two differentiated language API’s.
+•	A lightweight, multithreaded Java middleware program for connecting two differentiated language API’s.  The program was initially created to bridge the lack of functionality between the web application Mavenlink to the CRM EFI Pace and was intent on delivering employee information concerning the employee number, job ID, employee hours, activity code, and finally the date any information was entered into on the Mavenlink side, which would then be imported into Pace as an .xls file.  The entire scope of the project was to automate this process in place of manual entry.
 
 •	Utilizes a simple Process Builder method that is inclusive of the well-known cURL command-line tool; this program is capable of requesting and returning large amounts of JSON data.
 
