@@ -185,6 +185,7 @@ public class Krycek {
             }
         }
         catch(FileNotFoundException | RowsExceededException e){
+            e.printStackTrace();
         }
         catch(JSONException ex){
             Logger.getLogger(Krycek.class.getName()).log(Level.SEVERE, null, ex);
